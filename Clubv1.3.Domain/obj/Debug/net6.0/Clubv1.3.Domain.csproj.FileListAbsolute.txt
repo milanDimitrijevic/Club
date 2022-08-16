@@ -1,0 +1,12 @@
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\bin\Debug\net6.0\Clubv1.3.Domain.deps.json
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\bin\Debug\net6.0\Clubv1.3.Domain.dll
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\bin\Debug\net6.0\Clubv1.3.Domain.pdb
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\obj\Debug\net6.0\Clubv1.3.Domain.csproj.AssemblyReference.cache
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\obj\Debug\net6.0\Clubv1.3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\obj\Debug\net6.0\Clubv1.3.Domain.AssemblyInfoInputs.cache
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\obj\Debug\net6.0\Clubv1.3.Domain.AssemblyInfo.cs
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\obj\Debug\net6.0\Clubv1.3.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\obj\Debug\net6.0\Clubv1.3.Domain.dll
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\obj\Debug\net6.0\refint\Clubv1.3.Domain.dll
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\obj\Debug\net6.0\Clubv1.3.Domain.pdb
+C:\Users\Stimpi\source\repos\Clubv1.3\Clubv1.3.Domain\obj\Debug\net6.0\ref\Clubv1.3.Domain.dll

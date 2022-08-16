@@ -1,0 +1,15 @@
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\bin\Debug\net6.0\clubv1.3.Database.deps.json
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\bin\Debug\net6.0\clubv1.3.Database.dll
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\bin\Debug\net6.0\clubv1.3.Database.pdb
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\bin\Debug\net6.0\Clubv1.3.Domain.dll
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\bin\Debug\net6.0\Clubv1.3.Domain.pdb
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\clubv1.3.Database.csproj.AssemblyReference.cache
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\clubv1.3.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\clubv1.3.Database.AssemblyInfoInputs.cache
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\clubv1.3.Database.AssemblyInfo.cs
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\clubv1.3.Database.csproj.CoreCompileInputs.cache
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\clubv1.3.Database.csproj.CopyComplete
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\clubv1.3.Database.dll
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\refint\clubv1.3.Database.dll
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\clubv1.3.Database.pdb
+C:\Users\Stimpi\source\repos\Clubv1.3\clubv1.3.Database\obj\Debug\net6.0\ref\clubv1.3.Database.dll
