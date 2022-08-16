@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Infrastructure\\Clubv1.3.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\clubv1.3.Database\\Clubv1.3.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\clubv1.3.Database\\Clubv1.3.Database.csproj",
+        "projectName": "Clubv1.3.Database",
+        "projectPath": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\clubv1.3.Database\\Clubv1.3.Database.csproj",
+        "packagesPath": "C:\\Users\\Stimpi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\clubv1.3.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stimpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Domain\\Clubv1.3.Domain.csproj": {
+                "projectPath": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Domain\\Clubv1.3.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Domain\\Clubv1.3.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Domain\\Clubv1.3.Domain.csproj",
+        "projectName": "Clubv1.3.Domain",
+        "projectPath": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Domain\\Clubv1.3.Domain.csproj",
+        "packagesPath": "C:\\Users\\Stimpi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stimpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Infrastructure\\Clubv1.3.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Infrastructure\\Clubv1.3.Infrastructure.csproj",
+        "projectName": "Clubv1.3.Infrastructure",
+        "projectPath": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Infrastructure\\Clubv1.3.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Stimpi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stimpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\clubv1.3.Database\\Clubv1.3.Database.csproj": {
+                "projectPath": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\clubv1.3.Database\\Clubv1.3.Database.csproj"
+              },
+              "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Domain\\Clubv1.3.Domain.csproj": {
+                "projectPath": "C:\\Users\\Stimpi\\source\\repos\\Clubv1.3\\Clubv1.3.Domain\\Clubv1.3.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
